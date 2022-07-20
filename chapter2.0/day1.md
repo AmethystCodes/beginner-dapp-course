@@ -4,6 +4,8 @@
 
 Frontend involves the functionality of a website, like clicking on a button, and how a website looks when it is viewed by a user. Backend developments are not usually not seen by the user but typically involve working with databases, architecture, and APIs to name a few. 
 
+A real life example is a banking app. The frontend displays the login screen, account information, and the user is able to navigate through different sections of the app using buttons. The backend is where the account information that the frontend displays is stored, along with any banking infrastructure and APIs. 
+
 **2. What is the difference between global styling and module styling?**
 
 * **Global styling:** applies to everything on the site
