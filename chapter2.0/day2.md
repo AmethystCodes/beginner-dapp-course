@@ -62,4 +62,4 @@ export default function Home() {
   )
 }  
 ```
-![Original Dapp Landing Page](images/dapp-landing-begin.png)
+![Original Dapp Landing Page](/images/dapp-landing-begin.png)
