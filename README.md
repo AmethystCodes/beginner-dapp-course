@@ -1,4 +1,7 @@
-# ec-beginner-dapp-course
-Emerald City DAO's Beginner Dapp Course - July 2022
+# 🏫 Beginner dApp Course
 
-[Beginner Dapp Course](https://github.com/emerald-dao/beginner-dapp-course)
+### Emerald Academy's Beginner Dapp Course - July 2022
+
+[Beginner Dapp Course Github](https://github.com/emerald-dao/beginner-dapp-course)
+
+[Emerald Academy Discord](https://discord.gg/K3PzQewVDV)
